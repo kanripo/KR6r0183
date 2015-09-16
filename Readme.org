@@ -1,9 +1,3 @@
-#+TITLE: 善女人傳 / CBETA
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-30 22:29:45.671456
-* 版本
- |     CBETA|【電子佛典集成】|
- |         X|【卍續】    |
-目次
- - [[file:KR6r0183_001.txt][善女人傳 1]]
- - [[file:KR6r0183_002.txt][善女人傳 2]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
